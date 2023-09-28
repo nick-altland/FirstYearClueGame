@@ -1,4 +1,4 @@
-#Nicholas Altland, CS021C Final Project
+#Nicholas Altland
 #CLUE: The Game
 #This is the game of clue, a murder mystery where you, the user, will try and discover who is the killer
 #and who is innocent. 
